@@ -1,0 +1,30 @@
+/* General Styles */
+body {
+    font-family: 'Arial, sans-serif';
+    background-color:rgb(133, 127, 127);
+    color: #333;
+}
+
+h1, h2 {
+    color: #333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: #3498db;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #555;
+}
+
+/* Styled Divs */
+.styled-div {
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Verdana, Geneva, sans-serif';
+}
